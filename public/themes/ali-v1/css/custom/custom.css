@@ -1,0 +1,555 @@
+/*================================================================================
+	Item Name: Materialize - Material Design Admin Template
+	Version: 5.0
+	Author: PIXINVENT
+	Author URL: https://themeforest.net/user/pixinvent/portfolio
+================================================================================
+
+NOTE:
+------
+PLACE HERE YOUR OWN CSS CODES AND IF NEEDED, OVERRIDE THE STYLES FROM THE OTHER STYLESHEETS.
+WE WILL RELEASE FUTURE UPDATES SO IN ORDER TO NOT OVERWRITE YOUR STYLES IT'S BETTER LIKE THIS.  */
+
+
+input:not([type]):focus:not([readonly]),
+input[type=text]:not(.browser-default):focus:not([readonly]),
+input[type=password]:not(.browser-default):focus:not([readonly]),
+input[type=email]:not(.browser-default):focus:not([readonly]),
+input[type=url]:not(.browser-default):focus:not([readonly]),
+input[type=time]:not(.browser-default):focus:not([readonly]),
+input[type=date]:not(.browser-default):focus:not([readonly]),
+input[type=datetime]:not(.browser-default):focus:not([readonly]),
+input[type=datetime-local]:not(.browser-default):focus:not([readonly]),
+input[type=tel]:not(.browser-default):focus:not([readonly]),
+input[type=number]:not(.browser-default):focus:not([readonly]),
+input[type=search]:not(.browser-default):focus:not([readonly]),
+textarea.materialize-textarea:focus:not([readonly])
+{
+	border-bottom: 1px solid #ffab00;
+	-webkit-box-shadow: 0 1px 0 0 #ffab00;
+	box-shadow: 0 1px 0 0 #ffab00;
+}
+
+input:not([type]):focus:not([readonly]) + label,
+input[type=text]:not(.browser-default):focus:not([readonly]) + label,
+input[type=password]:not(.browser-default):focus:not([readonly]) + label,
+input[type=email]:not(.browser-default):focus:not([readonly]) + label,
+input[type=url]:not(.browser-default):focus:not([readonly]) + label,
+input[type=time]:not(.browser-default):focus:not([readonly]) + label,
+input[type=date]:not(.browser-default):focus:not([readonly]) + label,
+input[type=datetime]:not(.browser-default):focus:not([readonly]) + label,
+input[type=datetime-local]:not(.browser-default):focus:not([readonly]) + label,
+input[type=tel]:not(.browser-default):focus:not([readonly]) + label,
+input[type=number]:not(.browser-default):focus:not([readonly]) + label,
+input[type=search]:not(.browser-default):focus:not([readonly]) + label,
+textarea.materialize-textarea:focus:not([readonly]) + label
+{
+	color: #ffab00;
+}
+
+[type='checkbox']:checked + span:not(.lever):before
+{
+	border-right: 2px solid #ffab00;
+	border-bottom: 2px solid #ffab00;
+}
+[type='radio']:checked + span:not(.lever):after
+{
+	background: #ffab00;
+	border: 2px solid #ffab00;
+}
+
+.input-field .prefix.active
+{
+	color: #ffab00;
+}
+
+.fundo-login
+{
+	background: rgb(255 255 255 / 63%);
+}
+.btn-pmpr
+{
+	font-family: 'Muli', sans-serif;
+	box-shadow: 0 2px 2px 0 rgba(0, 0, 0, .14), 0 3px 1px -2px rgba(0, 0, 0, .12), 0 1px 5px 0 rgba(0, 0, 0, .2);
+	height: 36px;
+	text-transform: uppercase;
+	border: none;
+	font-size: 1rem;
+	color: #fff;
+	z-index: 1;
+	transition: .9s ease-out;
+	-webkit-tap-highlight-color: transparent;
+	cursor: pointer;
+	border-radius: 150px !important;
+	box-sizing: border-box;
+	background-color: #ff9100 !important;
+	width: 100%;
+}
+.yellow-pmpr
+{
+	background-color: #ffab00 !important;
+}
+
+.btn-pmpr-1
+{
+	width: 10%;
+}
+.btn-pmpr-2
+{
+	width: 20%;
+}
+.btn-pmpr-3
+{
+	width: 30%;
+}
+.btn-pmpr-4
+{
+	width: 40%;
+}
+.btn-pmpr-5
+{
+	width: 50%;
+}
+.btn-pmpr-6
+{
+	width: 60%;
+}
+.btn-pmpr-7
+{
+	width: 70%;
+}
+.btn-pmpr-8
+{
+	width: 80%;
+}
+.btn-pmpr-9
+{
+	width: 90%;
+}
+.input-field div.error
+{
+	color: #b71c1c;
+}
+
+#main div.container > div.section > div.card,
+.overflow-visible
+{
+	overflow: visible;
+}
+
+.collection.with-header.coluna-estagio .collection-item
+{
+	padding: 10px;
+}
+
+/*  fontSize: */
+.xs   {font-size: 0.75rem}
+.sm   {font-size: 0.875rem}
+.base {font-size: 1rem}
+.lg   {font-size: 1.125rem}
+.xl   {font-size: 1.25rem}
+.xxl  {font-size: 1.5rem}
+.xxxl  {font-size: 1.875rem}
+.4xl  {font-size: 2.25rem}
+.5xl  {font-size: 3rem}
+.6xl  {font-size: 4rem}
+.fs1  {font-size: 1vw}
+.fs2  {font-size: 1.4vw}
+.fs3  {font-size: 1.6vw}
+.fs4  {font-size: 1.8vw}
+.fs5  {font-size: 2vw}
+.fs6  {font-size: 2.2vw}
+.fs7  {font-size: 2.4vw}
+.fs8  {font-size: 2.6vw}
+
+.select-dropdown li img
+{
+	float: left !important;
+}
+
+.reduzir50
+{
+	transform:scale(0.5);
+	margin-top:-10px;
+}
+.reduzir60
+{
+	transform:scale(0.6);
+}
+
+a.reduzir60 i.material-icons,
+button.reduzir60 i.material-icons
+{
+	font-size: 2.7em;
+}
+.reduzir80
+{
+	transform:scale(0.8);
+}
+.reduzir95
+{
+	transform:scale(0.95);
+}
+.inverso
+{
+	transform: rotate(180deg);
+}
+.navbar-full .brand-sidebar .brand-logo
+{
+	padding-left: 0.4em;
+	padding-right: 0.4em;
+	padding-top: 0.4em;
+	padding-bottom: 0.4em;
+}
+.brand-sidebar .logo-wrapper a.brand-logo img
+{
+	height: 1.2em;
+}
+.brand-sidebar .logo-wrapper a.brand-logo span.logo-text
+{
+	vertical-align: super;
+}
+
+.gradient-45deg-blue-grey-blue-grey-invert, .sidenav li a.active
+{
+	background: #546e7a;
+	background: -webkit-linear-gradient(45deg, #546e7a, #cfd8dc) !important;
+	background: -moz- oldlinear-gradient(45deg, #546e7a, #cfd8dc) !important;
+	background:      -o-linear-gradient(45deg, #546e7a, #cfd8dc) !important;
+	background:         linear-gradient(45deg, #546e7a, #cfd8dc) !important;
+}
+.sidenav li a.active
+{
+	background: -webkit-linear-gradient(45deg, #546e7a, #cfd8dc);
+	background: -moz- oldlinear-gradient(45deg, #546e7a, #cfd8dc);
+	background:      -o-linear-gradient(45deg, #546e7a, #cfd8dc);
+	background:         linear-gradient(45deg, #546e7a, #cfd8dc);
+	-webkit-box-shadow: 3px 3px 20px 0 rgba(0, 0, 0, .14);
+	box-shadow: 3px 3px 20px 0 rgba(0, 0, 0, .14);
+}
+.sidenav li.open
+{
+	background: none;
+}
+
+ul.coluna-estagio li.collection-header, #cabecalho-protocolo h5
+{
+	border-bottom: 5px solid #ffab00 !important;
+}
+a.link-pmpr, span.link-pmpr, a.LINK-PMPR, span.LINK-PMPR, div.link-pmpr,
+a.link-pmpr .chip-difusao-entregue, a.link-pmpr .chip-difusao-entregue .task-cat
+{
+	color: #000 !important;
+	text-decoration: underline !important;
+}
+.barra-testes
+{
+	width: 50%;
+	height: 50px;
+	position: fixed;
+	left: 25%;
+	z-index: 1000;
+	clear: both;
+	float: left;
+	text-transform: uppercase;
+}
+
+table.striped > tbody > tr:nth-child(odd)
+{
+	background-color: #d0cece;
+}
+table.striped > tbody > tr:nth-child(even)
+{
+	background-color: #f9f9f9;
+}
+
+table.striped > tbody > tr > td
+{
+	padding: 1.5em;
+}
+.modal.bottom-sheet
+{
+	max-height: 80% !important;
+}
+.highlight
+{
+	background-color: yellow;
+}
+
+.overflow-y-unset
+{
+	overflow-y: unset;
+}
+
+table.dataTable
+{
+	table-layout: fixed;
+	word-wrap:break-word;
+}
+
+table th.acao{
+	width:10em !important;
+}
+
+.dataTable th, .dataTable td
+{
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+.modal-content.overflow-y
+{
+	height: 43em !important;
+	overflow-y: auto;
+}
+#modalAddPessoas.modal .modal-content.overflow-y{
+	height: 25em !important;
+}
+
+ul.autocomplete-content.dropdown-content {
+	width:350px !important;
+}
+
+div.chip-code
+{
+	max-width: 350px;
+}
+
+.uppercase{
+	text-transform: uppercase;
+}
+
+.text-bold
+{
+	font-weight: bold;
+}
+.chip-crime{
+	width: 100%;
+	height: 100%;
+}
+
+#galeria-tatoo .btn-floating.halfway-fab
+{
+	right: 10px !important;
+}
+.card-legenda-tatoo
+{
+	padding: 1em !important;
+}
+#user-profile hr{
+	color: #cfd8dc;
+}
+
+.sticky {
+	position: fixed;
+	top: 60px;
+	z-index: 9;
+}
+
+.sticky + #main {
+	padding-top: 102px;
+}
+
+
+.m-0
+{
+	margin-top: 0 !important;
+}
+
+.m-1
+{
+	margin-top: 1% !important;
+}
+
+.m-2
+{
+	margin-top: 2% !important;
+}
+
+.m-3
+{
+	margin-top: 3% !important;
+}
+
+.m-4
+{
+	margin-top: 4% !important;
+}
+
+.m-5
+{
+	margin-top: 5% !important;
+}
+
+.m-6
+{
+	margin-top: 6% !important;
+}
+
+.m-7
+{
+	margin-top: 7% !important;
+}
+
+.m-8
+{
+	margin-top: 8% !important;
+}
+
+.m-9
+{
+	margin-top: 9% !important;
+}
+
+.m-10
+{
+	margin-top: 10% !important;
+}
+
+.spinner-pmpr
+{
+	border-color: #ffab00 !important;
+}
+
+.switch label input[type="checkbox"]:checked + .lever
+{
+	background-color: #f7ce7c;
+}
+
+.switch label input[type=checkbox]:checked + .lever:after
+{
+	background-color: #ffab00;
+}
+
+/**/
+div.input-field:not(.area-select-multiple) .select2-container
+{
+	height: 3rem;
+}
+.label-select2
+{
+	top: -2.25em !important;
+	font-size: 0.82rem !important;
+}
+.label-select2-multiple{
+	top: -3.45em !important;
+}
+
+div.input-field:not(.area-select-multiple) .select2-selection
+{
+	height: 3rem !important;
+	border-top: none !important;
+	border-left: none !important;
+	border-right: none !important;
+	border-radius: 0 !important;
+}
+
+div.input-field:not(.area-select-multiple) .select2-selection__rendered
+{
+	position: relative;
+	top: 0.8rem;
+}
+
+div.input-field:not(.area-select-multiple) .select2-selection.select2-selection--single.invalid
+{
+	border-bottom: 1px solid #ff5252;
+	-webkit-box-shadow: 0 1px 0 0 #ff5252;
+	box-shadow: 0 1px 0 0 #ff5252;
+}
+/**/
+.modal
+{
+	background-color: #fff !important;
+}
+#slide-out.leftside-navigation{
+	height: 90% !important;
+}
+.hide-ps
+{
+	height: 3.5% !important;
+	background: white;
+	top: 96.5%;
+	position: absolute;
+	width: 250px;
+	z-index: 999999999999;
+}
+#conteudo-protocolo #modalBusca,
+#conteudo-paramim #modalBusca
+{
+	max-height: 75% !important;
+	overflow-y: scroll !important;
+}
+
+hr {
+	color: #fff;
+}
+
+.width-15 { width: 15% !important; }
+.width-25 { width: 25% !important; }
+
+.chip-difusao {
+	height: 6em;
+	text-align: center;
+	border: 4px solid #e4e4e4;
+	float: left;
+}
+
+.chip-difusao-contra {
+	border: 4px solid #ffa726;
+}
+
+.chip-difusao-entregue {
+	border: 4px solid #66bb6a;
+}
+
+.chip-difusao .task-cat {
+	border-radius: 5px;
+}
+
+.chip-agencia-protocolo
+{
+	min-height: 3em;
+	height: auto;
+	border: 3px solid #ffab00 !important;
+	color: white;
+	border-radius: 0;
+	background-color: #616161 !important;
+}
+.rotate90{
+	transform: rotate(90deg);
+}
+
+.card-sistema h5
+{
+	border-bottom: 5px solid #ffab00 !important;
+}
+
+.ratio {
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 0;
+	position: relative;
+	width: 100%;
+}
+
+.img-circle {
+	border-radius: 50%;
+}
+
+.img-responsive {
+	display: block;
+	height: auto;
+	max-width: 100%;
+}
+
+#timeline-content .modal{
+max-height: inherit !important;
+}
+#timeline-content a.modal-trigger{
+	padding: 2em 0 2em 1em !important;
+}
+#timeline-content video {
+    object-fit: cover;
+    width: 90%;
+}
