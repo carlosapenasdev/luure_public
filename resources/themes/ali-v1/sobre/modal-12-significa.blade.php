@@ -1,4 +1,4 @@
-<a class="modal-trigger m-0" href="#modal12">
+<a class="modal-trigger m-0 less" href="#modal12">
 	<h3 class="m-0 p-0">@lang('controller/sobre.significa')</h3>
 </a>
 

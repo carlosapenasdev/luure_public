@@ -1,4 +1,4 @@
-<a class="modal-trigger m-0" href="#modal24">
+<a class="modal-trigger m-0 less" href="#modal24">
 	<h3 class="m-0 p-0">@lang('controller/sobre.metricas')</h3>
 </a>
 

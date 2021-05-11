@@ -1,4 +1,4 @@
-<a class="modal-trigger m-0" href="#modal31">
+<a class="modal-trigger m-0 less" href="#modal31">
 	<h3 class="m-0 p-0">@lang('controller/sobre.tecnologias')</h3>
 </a>
 

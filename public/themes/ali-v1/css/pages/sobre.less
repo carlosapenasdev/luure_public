@@ -32,7 +32,7 @@ p {
   font-weight: 300;
 }
 
-a { 
+a.less { 
   color: @color-dim;
   text-decoration: none;
   text-transform: uppercase;
@@ -45,10 +45,9 @@ a {
   margin: 1.9rem 0 0 0;
 }
 
-a:hover { 
+a.less:hover { 
   color: @color-light;
   background: @color-primary;
-  border-bottom: .35em solid black;
 }
 
 strong {
@@ -56,11 +55,11 @@ strong {
 }
 
 h1 {
- font-family: @font-title;
+ font-family: @font-title !important;
  letter-spacing: 1.5px;
  color: @color-light;  
  font-weight: 400;
- font-size: 2.4em;
+ font-size: 2.4em !important;
 }
 
 #timeline-content {
@@ -91,6 +90,7 @@ h1 {
   text-align: left;  
   font-weight: 100;
   max-width: 50%;
+  margin-bottom: 0;
   
   h1 {
    font-family: @font-title;
@@ -150,4 +150,13 @@ h1 {
       top: 5px;
     }
   }
+}
+
+a.link-pmpr.dev-luure
+{
+	color: @color-primary !important;
+	font-weigth: bolder;
+	font-weight: 900;
+	font-style: normal;
+	font-size: 23px;
 }

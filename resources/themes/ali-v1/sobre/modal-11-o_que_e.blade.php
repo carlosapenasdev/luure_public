@@ -1,4 +1,4 @@
-<a class="modal-trigger m-0" href="#modal11">
+<a class="modal-trigger m-0 less" href="#modal11">
 	<h3 class="m-0 p-0">@lang('controller/sobre.o_que_e')</h3>
 </a>
 
