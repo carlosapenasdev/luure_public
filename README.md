@@ -1,7 +1,11 @@
 <h1 align="center">Luure.</h1>
 <br />
 
-#### Como uma Agência Local de Inteligência (ALI) da [Polícia Militar do Paraná (PMPR)](http://www.pmpr.pr.gov.br/) pode apresentar com certo grau de agilidade e confiança  os resultados de produtividade ao longo de sua existência?
+Desenvolvido na seção de Inteligência do [1° Batalhão](http://www.pmpr.pr.gov.br/1BPM) da [Polícia Militar do Paraná (PMPR)](http://www.pmpr.pr.gov.br/), o Luure nasceu para modernizar a atividade de inteligência no âmbito local.
+<br />Veja e descubra o que ele fez e faz por todos que tiveram contato com esta ferramenta estratégica de gestão:
+   <a target="_blank"  href="https://carlossantoswd.github.io/luure_public/"> carlossantoswd.github.io/luure_public/ </a>
+
+#### Como uma Agência Local de Inteligência (ALI) da PMPR pode apresentar com certo grau de agilidade e confiança  os resultados de produtividade ao longo de sua existência?
 
 <p>
 O Luure nasceu como resposta a esta pergunta,
