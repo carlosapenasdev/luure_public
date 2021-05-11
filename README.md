@@ -47,7 +47,7 @@ permitindo obter respostas rápidas e precisas, além de servir como memória de
 
 Este projeto esta sobe a licença [MIT](./LICENSE).
 
-Feito com ❤️ por Carlos Santos 👋🏽 [Entre em contato!](https://bit.ly/carlossantoswd)
+Feito por Carlos Santos 👋🏽 [Entre em contato!](https://bit.ly/carlossantoswd)
 
 README baseado em [tgmarinho/README-ecoleta](https://github.com/tgmarinho/README-ecoleta/blob/master/README-sem-logo.md)
 
