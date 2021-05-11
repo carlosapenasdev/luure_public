@@ -9,7 +9,7 @@ Desenvolvido na seção de Inteligência do [1° Batalhão](http://www.pmpr.pr.g
 
 <p>
 O Luure nasceu como resposta a esta pergunta,
-pois mesmo estando em uma realidade onde a técnoligia é muito empregada,
+pois mesmo estando em uma realidade onde a tecnologia é muito empregada,
 muito do que era produzido na agência da 2ª Seção do 1ª BPM, ainda era feito de forma manual,
 através de anotações ou de forma verbal. <br />
 Quando era preciso recuperar uma informação, isso demandava um esforço considerável e algumas vezes até em retrabalho.
