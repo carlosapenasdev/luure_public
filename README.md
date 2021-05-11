@@ -1,11 +1,15 @@
 <h1 align="center">Luure.</h1>
 <br />
 
-#### Como uma Agência Local de Inteligência (ALI) da [Polícia Militar do Paraná (PMPR)](http://www.pmpr.pr.gov.br/) pode apresentar com certo grau de agilidade e confiança  os resultados de produtividade ao longo de sua existência?
+Desenvolvido na seção de Inteligência do [1° Batalhão](http://www.pmpr.pr.gov.br/1BPM) da [Polícia Militar do Paraná (PMPR)](http://www.pmpr.pr.gov.br/), o Luure nasceu para modernizar a atividade de inteligência no âmbito local.
+<br />Veja e descubra o que ele fez e faz por todos que tiveram contato com esta ferramenta estratégica de gestão:
+   <a target="_blank"  href="https://carlossantoswd.github.io/luure_public/"> carlossantoswd.github.io/luure_public/ </a>
+
+#### Como uma Agência Local de Inteligência (ALI) da PMPR pode apresentar com certo grau de agilidade e confiança  os resultados de produtividade ao longo de sua existência?
 
 <p>
 O Luure nasceu como resposta a esta pergunta,
-pois mesmo estando em uma realidade onde a técnoligia é muito empregada,
+pois mesmo estando em uma realidade onde a tecnologia é muito empregada,
 muito do que era produzido na agência da 2ª Seção do 1ª BPM, ainda era feito de forma manual,
 através de anotações ou de forma verbal. <br />
 Quando era preciso recuperar uma informação, isso demandava um esforço considerável e algumas vezes até em retrabalho.
@@ -43,7 +47,7 @@ permitindo obter respostas rápidas e precisas, além de servir como memória de
 
 Este projeto esta sobe a licença [MIT](./LICENSE).
 
-Feito com ❤️ por Carlos Santos 👋🏽 [Entre em contato!](https://bit.ly/carlossantoswd)
+Feito por Carlos Santos 👋🏽 [Entre em contato!](https://bit.ly/carlossantoswd)
 
 README baseado em [tgmarinho/README-ecoleta](https://github.com/tgmarinho/README-ecoleta/blob/master/README-sem-logo.md)
 
