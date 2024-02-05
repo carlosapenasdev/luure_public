@@ -3,7 +3,7 @@
 
 Desenvolvido na seção de Inteligência do [1° Batalhão](http://www.pmpr.pr.gov.br/1BPM) da [Polícia Militar do Paraná (PMPR)](http://www.pmpr.pr.gov.br/), o Luure nasceu para modernizar a atividade de inteligência no âmbito local.
 <br />Veja e descubra o que ele fez e faz por todos que tiveram contato com esta ferramenta estratégica de gestão:
-   <a target="_blank"  href="https://carlossantoswd.github.io/luure_public/"> carlossantoswd.github.io/luure_public/ </a>
+   <a target="_blank"  href="https://carlosapenasdev.github.io/luure_public/"> carlosapenasdev.github.io/luure_public/ </a>
 
 #### Como uma Agência Local de Inteligência (ALI) da PMPR pode apresentar com certo grau de agilidade e confiança  os resultados de produtividade ao longo de sua existência?
 
@@ -35,7 +35,7 @@ permitindo obter respostas rápidas e precisas, além de servir como memória de
   - Sd. QPMG 1-0 Carlos Santos
 ## 🦸 Autor
 
-<a href="https://bit.ly/carlossantoswd">
+<a href="https://bit.ly/carlosapenasdev">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/41978568?s=460&u=82d4ecda844a069cf53d14060b1689c5bc22d42f&v=4" width="100px;" alt=""/>
  <br />
  <sub><b>Carlos Santos</b></sub></a>
@@ -47,7 +47,7 @@ permitindo obter respostas rápidas e precisas, além de servir como memória de
 
 Este projeto esta sobe a licença [MIT](./LICENSE).
 
-Feito por Carlos Santos 👋🏽 [Entre em contato!](https://bit.ly/carlossantoswd)
+Feito por Carlos Santos 👋🏽 [Entre em contato!](https://bit.ly/carlosapenasdev)
 
 README baseado em [tgmarinho/README-ecoleta](https://github.com/tgmarinho/README-ecoleta/blob/master/README-sem-logo.md)
 
